@@ -1,0 +1,48 @@
+#content {
+  margin: 0;
+  padding: 0;
+  padding-top:3vh;
+  font-family: 'Port Lligat Sans', sans-serif;
+}
+.z {
+  font-family: 'Vollkorn', serif;
+}
+.center {
+  text-align: center;
+  align-items: center;
+}
+.btn-featured {
+  background-color:#1200D5;
+  color: #FFFFFF;
+}
+.btn-featured:hover {
+  color: #0C0090;
+}
+#blog {
+  padding-left: 5vw;
+  padding-right: 5vw;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+  background-color: #eeeeee;
+}
+#footer {
+    font-family: 'Neuton', serif;
+}
+#blog h1 {
+  font-family: 'Port Lligat Sans', sans-serif;
+}
+#blog h2 {
+  font-family: 'Port Lligat Sans', sans-serif;
+}
+#blog h3 {
+  font-family: 'Port Lligat Sans', sans-serif;
+}
+#blog h4 {
+  font-family: 'Port Lligat Sans', sans-serif;
+}
+#blog h5 {
+  font-family: 'Port Lligat Sans', sans-serif;
+}
+#blog h6 {
+  font-family: 'Port Lligat Sans', sans-serif;
+}
